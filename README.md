@@ -1,6 +1,7 @@
 # Machine-Learning-Research-Recommendations
 
-The code here is based on existing code and research papers. Here is the citation:
+The code here is based on existing code and research papers. The code I wrote is mostly for data manipulation, cleaning, presentation and data structures.
+Here is the citation:
 
 [Herviawan] M. H. Herviawan, “M Hendra Herviawan,” Movie Recommendation based on Alternating Least Squares (ALS) with Apache Spark, 13-Jan-2017. [Online]. Available: https://hendra-herviawan.github.io/build-movie-recommendation-with-apache-spark.html
 
